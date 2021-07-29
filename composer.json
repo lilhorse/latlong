@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/latlong",
+    "name": "lilhorse/latlong",
     "description": "Latitude & Longitude selector",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/latlong",
+    "homepage": "https://github.com/lilhorse/latlong",
     "license": "MIT",
     "authors": [
         {

@@ -96,7 +96,8 @@ class Latlong extends Field
      * @param $bool
      * @return Latlong
      */
-    public function setAutoPosition($bool) {
+    public function setAutoPosition($bool)
+    {
         $this->autoPosition = $bool;
         return $this;
     }
