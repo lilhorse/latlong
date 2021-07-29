@@ -29,5 +29,7 @@
                 "Encore\\Admin\\Latlong\\LatlongServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
 }
